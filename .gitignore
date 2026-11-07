@@ -1,0 +1,5 @@
+# Pebble build artifacts
+*.pbw
+*.pbz
+build/
+node_modules/
